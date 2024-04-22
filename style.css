@@ -63,4 +63,20 @@ p{
     padding:0 40px;
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-}
+}  
+   /*Inciar seção cabecalho*/
+   .cabecalho { 
+       background-color: #f5419b; /*cor de fundo*/
+       color: rgb(0, 109, 182); /*cor*/
+       display: flex; /*propriedade flex para organizar os itens do cabecalho,lado a lado*/
+       justify-content: space-around; /*alinha as imagens e os textos com espaçamento entre eles*/
+       align-items: center; /*alinhamento do itens centralizado*/
+       padding: 24px 0; /*altera o espaçamento interno*/
+ }
+ .cabecalho-imagem{ 
+    width: 8%; /**/
+    border-radius: 22px; /*para definir bordas arredondadas da imagem*/
+ }
+ 
+
+
