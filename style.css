@@ -77,6 +77,16 @@ p{
     width: 8%; /**/
     border-radius: 22px; /*para definir bordas arredondadas da imagem*/
  }
+
+.cabecalho-lista-imagem {  
+    display: inline-block /*o valor inline-block na propriedade display, os item a lista ficam lado a lado*/
+    margim: 0 16px; /**/
+    font-size: 24px; /*tamanhoda fonte*/
+} 
+
+.cabecalho-lista-imagem a { 
+     text-decoration: none;/**/
+     color:#33061c;/*cor*/
  
 
 
