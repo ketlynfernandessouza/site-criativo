@@ -43,7 +43,8 @@ a:active{
 }
 
 .escola{
-    background-image:linear-gradient( #fafafa, #c508cc94) ;
+    background-image:linear-gradient( #fafafa, #c5
+    08cc94) ;
     color: rgb(29, 26, 31);
     display: flex;
     justify-content: center;
@@ -64,6 +65,7 @@ p{
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }  
+
    /*Inciar seção cabecalho*/
    .cabecalho { 
        background-color: #f5419b; /*cor de fundo*/
@@ -87,6 +89,14 @@ p{
 .cabecalho-lista-imagem a { 
      text-decoration: none;/**/
      color:#33061c;/*cor*/
- 
+}
+/*Efeito alterar a cor quando passa o mouse*/
+a:houver { 
+     color:aquamarine;/*cor/
+}
+
+/*alterar a cor quando clicar o mouse
+a:active{
+   color:
 
 
