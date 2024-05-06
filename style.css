@@ -95,8 +95,10 @@ a:houver {
      color:aquamarine;/*cor/
 }
 
-/*alterar a cor quando clicar o mouse
+/*alterar a cor quando clicar o mouse*/
+
 a:active{
-   color:
+   color: rgb(199, 215, 246);
+}
 
 
